@@ -1,5 +1,5 @@
 
-<img background-size=cover' align="center"  alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E03AQHJSfeGoPtxiQ/profile-displayphoto-shrink_800_800/0/1702621430584?e=1710374400&v=beta&t=VWt3jHWGLjG_J2ZXuGK9HpKITTUIA3pqSvqffFYlBe4">
+<img  align="center"  alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E03AQHJSfeGoPtxiQ/profile-displayphoto-shrink_800_800/0/1702621430584?e=1710374400&v=beta&t=VWt3jHWGLjG_J2ZXuGK9HpKITTUIA3pqSvqffFYlBe4">
 
 <h1 align="center">Hi 👋, I'm Sithum Gunawardhana</h1>
 <h3 align="center">I'm a Software Engineer</h3>
